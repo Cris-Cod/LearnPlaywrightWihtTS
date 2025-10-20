@@ -45,3 +45,9 @@ Data Driven CSV File
 install plugin
 
 npm install csv-parse
+
+
+Data Driven Excel File
+
+install Plugin:
+npm install xlsx

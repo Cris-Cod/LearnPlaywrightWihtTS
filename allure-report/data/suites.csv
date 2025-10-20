@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8511","test case 1","chromium","Sun Oct 19 15:36:37 COT 2025","passed","Sun Oct 19 15:36:46 COT 2025","","chapter01\22_Test_Resports.spec.ts","",""
+"","11972","test case 4","chromium","Sun Oct 19 15:36:59 COT 2025","failed","Sun Oct 19 15:37:11 COT 2025","","chapter01\22_Test_Resports.spec.ts","",""
+"","7995","test case 3","chromium","Sun Oct 19 15:36:46 COT 2025","passed","Sun Oct 19 15:36:54 COT 2025","","chapter01\22_Test_Resports.spec.ts","",""
+"","9045","test case 2","chromium","Sun Oct 19 15:36:37 COT 2025","passed","Sun Oct 19 15:36:46 COT 2025","","chapter01\22_Test_Resports.spec.ts","",""

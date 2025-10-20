@@ -1,0 +1,1245 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [ref=e9] [cursor=pointer]:
+          - generic [ref=e12]:
+            - img
+        - generic [ref=e13]:
+          - link "YouTube Home" [ref=e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e19]:
+              - img
+          - generic [ref=e20]: CO
+        - button "Skip navigation" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: Skip navigation
+      - generic [ref=e29]:
+        - search [ref=e30]:
+          - generic [ref=e31]:
+            - combobox "Search" [expanded] [ref=e33]: Cypress by Testers Talk
+            - button "Clear search query" [ref=e35] [cursor=pointer]:
+              - generic [ref=e38]:
+                - img
+          - button "Search" [ref=e42] [cursor=pointer]:
+            - generic [ref=e45]:
+              - img
+        - generic [ref=e47]:
+          - button "Search with your voice" [ref=e49] [cursor=pointer]:
+            - generic [ref=e53]:
+              - img
+          - tooltip "tooltip"
+      - generic [ref=e58]:
+        - button "Settings" [ref=e63] [cursor=pointer]:
+          - generic [ref=e66]:
+            - img
+        - link "Sign in" [ref=e69] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DoJV5whmzfZI%2526list%253DPLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq%2526pp%253D0gcJCacEOCosWNin&hl=en&ec=65620
+          - generic [ref=e73]:
+            - img
+          - generic [ref=e74]: Sign in
+  - generic [ref=e78]:
+    - main [ref=e79]:
+      - generic [ref=e80]:
+        - generic [ref=e82]:
+          - complementary [ref=e89]:
+            - generic "YouTube Video Player" [ref=e92]:
+              - button "Channel watermark" [ref=e97] [cursor=pointer]:
+                - img "Channel watermark" [ref=e98]
+              - generic [ref=e100]:
+                - slider "Seek slider" [ref=e102] [cursor=pointer]
+                - generic [ref=e254]:
+                  - generic [ref=e255]:
+                    - button "Previous (SHIFT+p)" [ref=e256] [cursor=pointer]:
+                      - img
+                    - button "Play (k)" [ref=e257] [cursor=pointer]:
+                      - img
+                    - button "Next (SHIFT+n)" [ref=e258] [cursor=pointer]:
+                      - img
+                    - generic [ref=e259]:
+                      - button "Mute (m)" [ref=e260] [cursor=pointer]:
+                        - generic [ref=e261]:
+                          - img
+                      - slider "Volume"
+                    - generic [ref=e265]: 0:02 / 5:04:17
+                    - button "Cypress Tutorial Full Course" [ref=e267] [cursor=pointer]:
+                      - generic [ref=e268]: •
+                      - generic "Cypress Tutorial Full Course" [ref=e269]
+                      - generic [ref=e270]:
+                        - img
+                  - generic [ref=e271]:
+                    - button "Subtitles/closed captions unavailable" [ref=e272] [cursor=pointer]:
+                      - img
+                    - button "Settings" [ref=e273] [cursor=pointer]:
+                      - img
+                    - button "Theater mode (t)" [ref=e274] [cursor=pointer]:
+                      - img
+                    - button "Full screen (f)" [ref=e275] [cursor=pointer]:
+                      - img
+          - generic [ref=e276]:
+            - generic [ref=e278]:
+              - heading "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs" [level=1] [ref=e280]
+              - generic [ref=e281]:
+                - generic [ref=e282]:
+                  - generic [ref=e283]:
+                    - link [ref=e284] [cursor=pointer]:
+                      - /url: /@testerstalk
+                    - generic [ref=e286]:
+                      - generic "Testers Talk" [ref=e290]:
+                        - link "Testers Talk" [ref=e291] [cursor=pointer]:
+                          - /url: /@testerstalk
+                      - generic "26.5 thousand subscribers" [ref=e292]: 26.5K subscribers
+                  - generic [ref=e296]:
+                    - button "Subscribe to Testers Talk." [ref=e298] [cursor=pointer]:
+                      - generic [ref=e299]: Subscribe
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img
+                      - generic:
+                        - img
+                - generic [ref=e306]:
+                  - generic [ref=e307]:
+                    - generic [ref=e311]:
+                      - button "like this video along with 792 other people" [ref=e315] [cursor=pointer]:
+                        - generic [ref=e319]:
+                          - img
+                        - generic [ref=e320]: "792"
+                      - button "Dislike this video" [ref=e327] [cursor=pointer]:
+                        - generic [ref=e331]:
+                          - img
+                    - button "Share" [ref=e337] [cursor=pointer]:
+                      - generic [ref=e341]:
+                        - img
+                      - generic [ref=e342]: Share
+                  - button "Save to playlist" [ref=e349] [cursor=pointer]:
+                    - generic [ref=e353]:
+                      - img
+                    - generic [ref=e354]: Save
+                  - button "More actions" [ref=e359] [cursor=pointer]:
+                    - generic [ref=e363]:
+                      - img
+              - generic [ref=e369] [cursor=pointer]:
+                - generic [ref=e370]:
+                  - generic [ref=e372]:
+                    - text: 68K views 2 years ago
+                    - link "#bdd" [ref=e373]:
+                      - /url: /hashtag/bdd
+                    - link "#cypress" [ref=e374]:
+                      - /url: /hashtag/cypress
+                    - link "#automationtesting" [ref=e375]:
+                      - /url: /hashtag/automationtesting
+                  - tooltip "tooltip"
+                - generic [ref=e376]:
+                  - generic [ref=e377]:
+                    - generic [ref=e380]:
+                      - text: Cypress Tutorial Full Course 2023 | Learn Cypress in 5 Hrs |
+                      - link "#cypress" [ref=e382]:
+                        - /url: /hashtag/cypress
+                      - link "#cypresstutorial" [ref=e384]:
+                        - /url: /hashtag/cypresstutorial
+                      - link "#tutorial" [ref=e386]:
+                        - /url: /hashtag/tutorial
+                      - text: Cypress Automation Testing End to End Web Applications | Cypress is a frontend testing tool for web applications. Cypress runs on Windows, Linux, and macOS. Cypress app is open-source software released under the MIT License while the Cypress Cloud is a web appl
+                    - generic: …
+                  - button "...more" [ref=e387]
+            - text: •
+        - generic [ref=e462]:
+          - generic [ref=e464]:
+            - generic [ref=e466]:
+              - generic [ref=e467]:
+                - generic [ref=e468]:
+                  - heading "Cypress by Testers Talk☑️" [level=3] [ref=e469]:
+                    - generic "Cypress by Testers Talk☑️" [ref=e470]:
+                      - link "Cypress by Testers Talk☑️" [ref=e471] [cursor=pointer]:
+                        - /url: /playlist?list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq
+                  - generic [ref=e472]:
+                    - generic "Testers Talk" [ref=e473]:
+                      - link "Testers Talk" [ref=e474] [cursor=pointer]:
+                        - /url: /@testerstalk
+                    - generic [ref=e475]:
+                      - text: "-"
+                      - generic [ref=e476]: 1 / 41
+                - button "Collapse" [ref=e478] [cursor=pointer]:
+                  - generic [ref=e481]:
+                    - img
+              - generic [ref=e482]:
+                - generic [ref=e486]:
+                  - generic [ref=e489]:
+                    - button "Loop playlist" [ref=e491] [cursor=pointer]:
+                      - generic [ref=e495]:
+                        - img
+                    - tooltip "tooltip"
+                  - generic [ref=e499]:
+                    - button "Shuffle playlist" [ref=e501] [cursor=pointer]:
+                      - generic [ref=e505]:
+                        - img
+                    - tooltip "tooltip"
+                - button "Action menu" [ref=e513] [cursor=pointer]:
+                  - generic [ref=e516]:
+                    - img
+            - generic [ref=e517]:
+              - generic [ref=e518]:
+                - link "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs 5 hours, 4 minutes Testers Talk" [ref=e519] [cursor=pointer]:
+                  - /url: /watch?v=oJV5whmzfZI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=1&pp=iAQB
+                  - generic [ref=e520]:
+                    - generic [ref=e525]:
+                      - img
+                    - link [ref=e528]:
+                      - /url: /watch?v=oJV5whmzfZI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=1&pp=iAQB
+                      - img [ref=e532]:
+                        - generic [ref=e533]: 5:04:18
+                      - generic:
+                        - generic:
+                          - img
+                    - generic [ref=e534]:
+                      - heading "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs 5 hours, 4 minutes" [level=4] [ref=e535]:
+                        - generic "Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs 5 hours, 4 minutes" [ref=e536]: Cypress Tutorial Full Course | Cypress Automation | Learn Cypress in 5 Hrs
+                      - generic [ref=e538]: Testers Talk
+                - button "Action menu" [ref=e542] [cursor=pointer]:
+                  - generic [ref=e545]:
+                    - img
+              - generic [ref=e546]:
+                - link "2 Cypress GitHub Repository E2E Testing 43 seconds Testers Talk" [ref=e547] [cursor=pointer]:
+                  - /url: /watch?v=Eilrdx99t60&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=2&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e548]:
+                    - generic [ref=e550]: "2"
+                    - link [ref=e553]:
+                      - /url: /watch?v=Eilrdx99t60&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=2&pp=iAQB0gcJCfwJAYcqIYzv
+                      - img [ref=e557]:
+                        - generic [ref=e558]: 0:43
+                      - generic:
+                        - generic:
+                          - img
+                    - generic [ref=e559]:
+                      - heading "Cypress GitHub Repository E2E Testing 43 seconds" [level=4] [ref=e560]:
+                        - generic "Cypress GitHub Repository E2E Testing 43 seconds" [ref=e561]: Cypress GitHub Repository E2E Testing
+                      - generic [ref=e563]: Testers Talk
+                - button "Action menu" [ref=e567] [cursor=pointer]:
+                  - generic [ref=e570]:
+                    - img
+              - generic [ref=e571]:
+                - link "3 Cypress Full Course Overview E2E Web Testing 25 seconds Testers Talk" [ref=e572] [cursor=pointer]:
+                  - /url: /watch?v=mFGZN_o1WD0&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=3&pp=iAQB
+                  - generic [ref=e573]:
+                    - generic [ref=e575]: "3"
+                    - link [ref=e578]:
+                      - /url: /watch?v=mFGZN_o1WD0&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=3&pp=iAQB
+                      - img [ref=e582]:
+                        - generic [ref=e583]: 0:25
+                      - generic:
+                        - generic:
+                          - img
+                    - generic [ref=e584]:
+                      - heading "Cypress Full Course Overview E2E Web Testing 25 seconds" [level=4] [ref=e585]:
+                        - generic "Cypress Full Course Overview E2E Web Testing 25 seconds" [ref=e586]: Cypress Full Course Overview E2E Web Testing
+                      - generic [ref=e588]: Testers Talk
+                - button "Action menu" [ref=e592] [cursor=pointer]:
+                  - generic [ref=e595]:
+                    - img
+              - generic [ref=e596]:
+                - link "4 Cypress Chapter01 Overview End-to-End Testing 1 minute, 53 seconds Testers Talk" [ref=e597] [cursor=pointer]:
+                  - /url: /watch?v=ktapPLK2DCI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=4&pp=iAQB
+                  - generic [ref=e598]:
+                    - generic [ref=e600]: "4"
+                    - link [ref=e603]:
+                      - /url: /watch?v=ktapPLK2DCI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=4&pp=iAQB
+                      - img [ref=e607]:
+                        - generic [ref=e608]: 1:53
+                      - generic:
+                        - generic:
+                          - img
+                    - generic [ref=e609]:
+                      - heading "Cypress Chapter01 Overview End-to-End Testing 1 minute, 53 seconds" [level=4] [ref=e610]:
+                        - generic "Cypress Chapter01 Overview End-to-End Testing 1 minute, 53 seconds" [ref=e611]: Cypress Chapter01 Overview End-to-End Testing
+                      - generic [ref=e613]: Testers Talk
+                - button "Action menu" [ref=e617] [cursor=pointer]:
+                  - generic [ref=e620]:
+                    - img
+              - generic [ref=e621]:
+                - 'link "5 Cypress #1 What is Cypress? Advantages & Limitations of Cypress 6 minutes, 27 seconds Testers Talk" [ref=e622] [cursor=pointer]':
+                  - /url: /watch?v=6eaWRdpd-RQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=5&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e623]:
+                    - generic [ref=e625]: "5"
+                    - link [ref=e628]:
+                      - /url: /watch?v=6eaWRdpd-RQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=5&pp=iAQB0gcJCfwJAYcqIYzv
+                      - img [ref=e632]:
+                        - generic [ref=e633]: 6:27
+                      - generic:
+                        - generic:
+                          - img
+                    - generic [ref=e634]:
+                      - 'heading "Cypress #1 What is Cypress? Advantages & Limitations of Cypress 6 minutes, 27 seconds" [level=4] [ref=e635]':
+                        - 'generic "Cypress #1 What is Cypress? Advantages & Limitations of Cypress 6 minutes, 27 seconds" [ref=e636]': "Cypress #1 What is Cypress? Advantages & Limitations of Cypress"
+                      - generic [ref=e638]: Testers Talk
+                - button "Action menu" [ref=e642] [cursor=pointer]:
+                  - generic [ref=e645]:
+                    - img
+              - generic [ref=e646]:
+                - 'link "6 Cypress #2 Cypress Vs Selenium WebDriver 3 minutes, 24 seconds Testers Talk" [ref=e647] [cursor=pointer]':
+                  - /url: /watch?v=_Uy3wHaoH-o&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=6&pp=iAQB
+                  - generic [ref=e648]:
+                    - generic [ref=e650]: "6"
+                    - link [ref=e653]:
+                      - /url: /watch?v=_Uy3wHaoH-o&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=6&pp=iAQB
+                    - generic [ref=e655]:
+                      - 'heading "Cypress #2 Cypress Vs Selenium WebDriver 3 minutes, 24 seconds" [level=4] [ref=e656]':
+                        - 'generic "Cypress #2 Cypress Vs Selenium WebDriver 3 minutes, 24 seconds" [ref=e657]': "Cypress #2 Cypress Vs Selenium WebDriver"
+                      - generic [ref=e659]: Testers Talk
+                - button "Action menu" [ref=e663] [cursor=pointer]:
+                  - generic [ref=e666]:
+                    - img
+              - generic [ref=e667]:
+                - 'link "7 Cypress #3 Install Nodejs & Visual Studio Code (VS Code) 4 minutes, 26 seconds Testers Talk" [ref=e668] [cursor=pointer]':
+                  - /url: /watch?v=_iXGqe5OVxs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=7&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e669]:
+                    - generic [ref=e671]: "7"
+                    - link [ref=e674]:
+                      - /url: /watch?v=_iXGqe5OVxs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=7&pp=iAQB0gcJCfwJAYcqIYzv
+                    - generic [ref=e676]:
+                      - 'heading "Cypress #3 Install Nodejs & Visual Studio Code (VS Code) 4 minutes, 26 seconds" [level=4] [ref=e677]':
+                        - 'generic "Cypress #3 Install Nodejs & Visual Studio Code (VS Code) 4 minutes, 26 seconds" [ref=e678]': "Cypress #3 Install Nodejs & Visual Studio Code (VS Code)"
+                      - generic [ref=e680]: Testers Talk
+                - button "Action menu" [ref=e684] [cursor=pointer]:
+                  - generic [ref=e687]:
+                    - img
+              - generic [ref=e688]:
+                - 'link "8 Cypress #4 Install Cypress & Scaffold Examples & Test Runner 9 minutes, 7 seconds Testers Talk" [ref=e689] [cursor=pointer]':
+                  - /url: /watch?v=gRW79a1DlHQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=8&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e690]:
+                    - generic [ref=e692]: "8"
+                    - link [ref=e695]:
+                      - /url: /watch?v=gRW79a1DlHQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=8&pp=iAQB0gcJCfwJAYcqIYzv
+                    - generic [ref=e697]:
+                      - 'heading "Cypress #4 Install Cypress & Scaffold Examples & Test Runner 9 minutes, 7 seconds" [level=4] [ref=e698]':
+                        - 'generic "Cypress #4 Install Cypress & Scaffold Examples & Test Runner 9 minutes, 7 seconds" [ref=e699]': "Cypress #4 Install Cypress & Scaffold Examples & Test Runner"
+                      - generic [ref=e701]: Testers Talk
+                - button "Action menu" [ref=e705] [cursor=pointer]:
+                  - generic [ref=e708]:
+                    - img
+              - generic [ref=e709]:
+                - 'link "9 Cypress #5 Folder Structure in Cypress 3 minutes, 6 seconds Testers Talk" [ref=e710] [cursor=pointer]':
+                  - /url: /watch?v=YFv496gHw1E&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=9&pp=iAQB
+                  - generic [ref=e711]:
+                    - generic [ref=e713]: "9"
+                    - link [ref=e716]:
+                      - /url: /watch?v=YFv496gHw1E&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=9&pp=iAQB
+                    - generic [ref=e718]:
+                      - 'heading "Cypress #5 Folder Structure in Cypress 3 minutes, 6 seconds" [level=4] [ref=e719]':
+                        - 'generic "Cypress #5 Folder Structure in Cypress 3 minutes, 6 seconds" [ref=e720]': "Cypress #5 Folder Structure in Cypress"
+                      - generic [ref=e722]: Testers Talk
+                - button "Action menu" [ref=e726] [cursor=pointer]:
+                  - generic [ref=e729]:
+                    - img
+              - generic [ref=e730]:
+                - 'link "10 Cypress #6 Cypress Studio - Record and Play Test 14 minutes, 43 seconds Testers Talk" [ref=e731] [cursor=pointer]':
+                  - /url: /watch?v=1aQeNbI07Jk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=10&pp=iAQB
+                  - generic [ref=e732]:
+                    - generic [ref=e734]: "10"
+                    - link [ref=e737]:
+                      - /url: /watch?v=1aQeNbI07Jk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=10&pp=iAQB
+                    - generic [ref=e739]:
+                      - 'heading "Cypress #6 Cypress Studio - Record and Play Test 14 minutes, 43 seconds" [level=4] [ref=e740]':
+                        - 'generic "Cypress #6 Cypress Studio - Record and Play Test 14 minutes, 43 seconds" [ref=e741]': "Cypress #6 Cypress Studio - Record and Play Test"
+                      - generic [ref=e743]: Testers Talk
+                - button "Action menu" [ref=e747] [cursor=pointer]:
+                  - generic [ref=e750]:
+                    - img
+              - generic [ref=e751]:
+                - 'link "11 Cypress #7 Write First Cypress Automation Test 13 minutes, 49 seconds Testers Talk" [ref=e752] [cursor=pointer]':
+                  - /url: /watch?v=Yn3NJfdXVOI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=11&pp=iAQB
+                  - generic [ref=e753]:
+                    - generic [ref=e755]: "11"
+                    - link [ref=e758]:
+                      - /url: /watch?v=Yn3NJfdXVOI&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=11&pp=iAQB
+                    - generic [ref=e760]:
+                      - 'heading "Cypress #7 Write First Cypress Automation Test 13 minutes, 49 seconds" [level=4] [ref=e761]':
+                        - 'generic "Cypress #7 Write First Cypress Automation Test 13 minutes, 49 seconds" [ref=e762]': "Cypress #7 Write First Cypress Automation Test"
+                      - generic [ref=e764]: Testers Talk
+                - button "Action menu" [ref=e768] [cursor=pointer]:
+                  - generic [ref=e771]:
+                    - img
+              - generic [ref=e772]:
+                - 'link "12 Cypress #8 Run Test on Chrome, Edge & Firefox Browsers 9 minutes, 18 seconds Testers Talk" [ref=e773] [cursor=pointer]':
+                  - /url: /watch?v=ELyoLDDfBbw&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=12&pp=iAQB
+                  - generic [ref=e774]:
+                    - generic [ref=e776]: "12"
+                    - link [ref=e779]:
+                      - /url: /watch?v=ELyoLDDfBbw&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=12&pp=iAQB
+                    - generic [ref=e781]:
+                      - 'heading "Cypress #8 Run Test on Chrome, Edge & Firefox Browsers 9 minutes, 18 seconds" [level=4] [ref=e782]':
+                        - 'generic "Cypress #8 Run Test on Chrome, Edge & Firefox Browsers 9 minutes, 18 seconds" [ref=e783]': "Cypress #8 Run Test on Chrome, Edge & Firefox Browsers"
+                      - generic [ref=e785]: Testers Talk
+                - button "Action menu" [ref=e789] [cursor=pointer]:
+                  - generic [ref=e792]:
+                    - img
+              - generic [ref=e793]:
+                - 'link "13 Cypress #9 Run Test in Headless Mode in Cypress 5 minutes, 32 seconds Testers Talk" [ref=e794] [cursor=pointer]':
+                  - /url: /watch?v=U4swot55-6M&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=13&pp=iAQB
+                  - generic [ref=e795]:
+                    - generic [ref=e797]: "13"
+                    - link [ref=e800]:
+                      - /url: /watch?v=U4swot55-6M&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=13&pp=iAQB
+                    - generic [ref=e802]:
+                      - 'heading "Cypress #9 Run Test in Headless Mode in Cypress 5 minutes, 32 seconds" [level=4] [ref=e803]':
+                        - 'generic "Cypress #9 Run Test in Headless Mode in Cypress 5 minutes, 32 seconds" [ref=e804]': "Cypress #9 Run Test in Headless Mode in Cypress"
+                      - generic [ref=e806]: Testers Talk
+                - button "Action menu" [ref=e810] [cursor=pointer]:
+                  - generic [ref=e813]:
+                    - img
+              - generic [ref=e814]:
+                - 'link "14 Cypress #10 Stop Disable Auto ReRun Test in Cypress 5 minutes, 48 seconds Testers Talk" [ref=e815] [cursor=pointer]':
+                  - /url: /watch?v=aTXlMkiJIH8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=14&pp=iAQB
+                  - generic [ref=e816]:
+                    - generic [ref=e818]: "14"
+                    - link [ref=e821]:
+                      - /url: /watch?v=aTXlMkiJIH8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=14&pp=iAQB
+                    - generic [ref=e823]:
+                      - 'heading "Cypress #10 Stop Disable Auto ReRun Test in Cypress 5 minutes, 48 seconds" [level=4] [ref=e824]':
+                        - 'generic "Cypress #10 Stop Disable Auto ReRun Test in Cypress 5 minutes, 48 seconds" [ref=e825]': "Cypress #10 Stop Disable Auto ReRun Test in Cypress"
+                      - generic [ref=e827]: Testers Talk
+                - button "Action menu" [ref=e831] [cursor=pointer]:
+                  - generic [ref=e834]:
+                    - img
+              - generic [ref=e835]:
+                - 'link "15 Cypress #11 Chapter02 Overview End-to-End Testing 1 minute, 51 seconds Testers Talk" [ref=e836] [cursor=pointer]':
+                  - /url: /watch?v=ZzDMINy7Lls&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=15&pp=iAQB
+                  - generic [ref=e837]:
+                    - generic [ref=e839]: "15"
+                    - link [ref=e842]:
+                      - /url: /watch?v=ZzDMINy7Lls&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=15&pp=iAQB
+                    - generic [ref=e844]:
+                      - 'heading "Cypress #11 Chapter02 Overview End-to-End Testing 1 minute, 51 seconds" [level=4] [ref=e845]':
+                        - 'generic "Cypress #11 Chapter02 Overview End-to-End Testing 1 minute, 51 seconds" [ref=e846]': "Cypress #11 Chapter02 Overview End-to-End Testing"
+                      - generic [ref=e848]: Testers Talk
+                - button "Action menu" [ref=e852] [cursor=pointer]:
+                  - generic [ref=e855]:
+                    - img
+              - generic [ref=e856]:
+                - 'link "16 Cypress #12 Disable FETCH & XHR logs in Cypress 8 minutes, 5 seconds Testers Talk" [ref=e857] [cursor=pointer]':
+                  - /url: /watch?v=IcCzMfSojXg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=16&pp=iAQB
+                  - generic [ref=e858]:
+                    - generic [ref=e860]: "16"
+                    - link [ref=e863]:
+                      - /url: /watch?v=IcCzMfSojXg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=16&pp=iAQB
+                    - generic [ref=e865]:
+                      - 'heading "Cypress #12 Disable FETCH & XHR logs in Cypress 8 minutes, 5 seconds" [level=4] [ref=e866]':
+                        - 'generic "Cypress #12 Disable FETCH & XHR logs in Cypress 8 minutes, 5 seconds" [ref=e867]': "Cypress #12 Disable FETCH & XHR logs in Cypress"
+                      - generic [ref=e869]: Testers Talk
+                - button "Action menu" [ref=e873] [cursor=pointer]:
+                  - generic [ref=e876]:
+                    - img
+              - generic [ref=e877]:
+                - 'link "17 Cypress #13 IntelliSense & Intelligent Code Completion 6 minutes, 4 seconds Testers Talk" [ref=e878] [cursor=pointer]':
+                  - /url: /watch?v=g98jIJvMV3U&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=17&pp=iAQB
+                  - generic [ref=e879]:
+                    - generic [ref=e881]: "17"
+                    - link [ref=e884]:
+                      - /url: /watch?v=g98jIJvMV3U&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=17&pp=iAQB
+                    - generic [ref=e886]:
+                      - 'heading "Cypress #13 IntelliSense & Intelligent Code Completion 6 minutes, 4 seconds" [level=4] [ref=e887]':
+                        - 'generic "Cypress #13 IntelliSense & Intelligent Code Completion 6 minutes, 4 seconds" [ref=e888]': "Cypress #13 IntelliSense & Intelligent Code Completion"
+                      - generic [ref=e890]: Testers Talk
+                - button "Action menu" [ref=e894] [cursor=pointer]:
+                  - generic [ref=e897]:
+                    - img
+              - generic [ref=e898]:
+                - 'link "18 Cypress #14 Assertions in Cypress Automation Testing 27 minutes Testers Talk" [ref=e899] [cursor=pointer]':
+                  - /url: /watch?v=-NTp4pGNSmg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=18&pp=iAQB
+                  - generic [ref=e900]:
+                    - generic [ref=e902]: "18"
+                    - link [ref=e905]:
+                      - /url: /watch?v=-NTp4pGNSmg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=18&pp=iAQB
+                    - generic [ref=e907]:
+                      - 'heading "Cypress #14 Assertions in Cypress Automation Testing 27 minutes" [level=4] [ref=e908]':
+                        - 'generic "Cypress #14 Assertions in Cypress Automation Testing 27 minutes" [ref=e909]': "Cypress #14 Assertions in Cypress Automation Testing"
+                      - generic [ref=e911]: Testers Talk
+                - button "Action menu" [ref=e915] [cursor=pointer]:
+                  - generic [ref=e918]:
+                    - img
+              - generic [ref=e919]:
+                - 'link "19 Cypress #15 Selectors & CSS Selectors in Test Automation 30 minutes Testers Talk" [ref=e920] [cursor=pointer]':
+                  - /url: /watch?v=cSa4VAHawMg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=19&pp=iAQB
+                  - generic [ref=e921]:
+                    - generic [ref=e923]: "19"
+                    - link [ref=e926]:
+                      - /url: /watch?v=cSa4VAHawMg&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=19&pp=iAQB
+                    - generic [ref=e928]:
+                      - 'heading "Cypress #15 Selectors & CSS Selectors in Test Automation 30 minutes" [level=4] [ref=e929]':
+                        - 'generic "Cypress #15 Selectors & CSS Selectors in Test Automation 30 minutes" [ref=e930]': "Cypress #15 Selectors & CSS Selectors in Test Automation"
+                      - generic [ref=e932]: Testers Talk
+                - button "Action menu" [ref=e936] [cursor=pointer]:
+                  - generic [ref=e939]:
+                    - img
+              - generic [ref=e940]:
+                - 'link "20 Cypress #16 Xpath in Cypress Web Automation Testing 9 minutes, 36 seconds Testers Talk" [ref=e941] [cursor=pointer]':
+                  - /url: /watch?v=OYHeClS-I8A&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=20&pp=iAQB
+                  - generic [ref=e942]:
+                    - generic [ref=e944]: "20"
+                    - link [ref=e947]:
+                      - /url: /watch?v=OYHeClS-I8A&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=20&pp=iAQB
+                    - generic [ref=e949]:
+                      - 'heading "Cypress #16 Xpath in Cypress Web Automation Testing 9 minutes, 36 seconds" [level=4] [ref=e950]':
+                        - 'generic "Cypress #16 Xpath in Cypress Web Automation Testing 9 minutes, 36 seconds" [ref=e951]': "Cypress #16 Xpath in Cypress Web Automation Testing"
+                      - generic [ref=e953]: Testers Talk
+                - button "Action menu" [ref=e957] [cursor=pointer]:
+                  - generic [ref=e960]:
+                    - img
+              - generic [ref=e961]:
+                - 'link "21 Cypress #17 Run Cypress Test From Visual Studio Code 2 minutes, 31 seconds Testers Talk" [ref=e962] [cursor=pointer]':
+                  - /url: /watch?v=QS2dQCl_FyU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=21&pp=iAQB
+                  - generic [ref=e963]:
+                    - generic [ref=e965]: "21"
+                    - link [ref=e968]:
+                      - /url: /watch?v=QS2dQCl_FyU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=21&pp=iAQB
+                    - generic [ref=e970]:
+                      - 'heading "Cypress #17 Run Cypress Test From Visual Studio Code 2 minutes, 31 seconds" [level=4] [ref=e971]':
+                        - 'generic "Cypress #17 Run Cypress Test From Visual Studio Code 2 minutes, 31 seconds" [ref=e972]': "Cypress #17 Run Cypress Test From Visual Studio Code"
+                      - generic [ref=e974]: Testers Talk
+                - button "Action menu" [ref=e978] [cursor=pointer]:
+                  - generic [ref=e981]:
+                    - img
+              - generic [ref=e982]:
+                - 'link "22 Cypress #18 Handling DropDown List in Test Automation 8 minutes, 7 seconds Testers Talk" [ref=e983] [cursor=pointer]':
+                  - /url: /watch?v=WIDmjACd3sk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=22&pp=iAQB
+                  - generic [ref=e984]:
+                    - generic [ref=e986]: "22"
+                    - link [ref=e989]:
+                      - /url: /watch?v=WIDmjACd3sk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=22&pp=iAQB
+                    - generic [ref=e991]:
+                      - 'heading "Cypress #18 Handling DropDown List in Test Automation 8 minutes, 7 seconds" [level=4] [ref=e992]':
+                        - 'generic "Cypress #18 Handling DropDown List in Test Automation 8 minutes, 7 seconds" [ref=e993]': "Cypress #18 Handling DropDown List in Test Automation"
+                      - generic [ref=e995]: Testers Talk
+                - button "Action menu" [ref=e999] [cursor=pointer]:
+                  - generic [ref=e1002]:
+                    - img
+              - generic [ref=e1003]:
+                - 'link "23 Cypress #19 IFrames in Cypress Automation Testing 9 minutes, 20 seconds Testers Talk" [ref=e1004] [cursor=pointer]':
+                  - /url: /watch?v=bXrHCTmTGsM&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=23&pp=iAQB
+                  - generic [ref=e1005]:
+                    - generic [ref=e1007]: "23"
+                    - link [ref=e1010]:
+                      - /url: /watch?v=bXrHCTmTGsM&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=23&pp=iAQB
+                    - generic [ref=e1012]:
+                      - 'heading "Cypress #19 IFrames in Cypress Automation Testing 9 minutes, 20 seconds" [level=4] [ref=e1013]':
+                        - 'generic "Cypress #19 IFrames in Cypress Automation Testing 9 minutes, 20 seconds" [ref=e1014]': "Cypress #19 IFrames in Cypress Automation Testing"
+                      - generic [ref=e1016]: Testers Talk
+                - button "Action menu" [ref=e1020] [cursor=pointer]:
+                  - generic [ref=e1023]:
+                    - img
+              - generic [ref=e1024]:
+                - 'link "24 Cypress #20 Scroll Down Up in Automation Testing 6 minutes, 11 seconds Testers Talk" [ref=e1025] [cursor=pointer]':
+                  - /url: /watch?v=dixZ3Q92frs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=24&pp=iAQB
+                  - generic [ref=e1026]:
+                    - generic [ref=e1028]: "24"
+                    - link [ref=e1031]:
+                      - /url: /watch?v=dixZ3Q92frs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=24&pp=iAQB
+                    - generic [ref=e1033]:
+                      - 'heading "Cypress #20 Scroll Down Up in Automation Testing 6 minutes, 11 seconds" [level=4] [ref=e1034]':
+                        - 'generic "Cypress #20 Scroll Down Up in Automation Testing 6 minutes, 11 seconds" [ref=e1035]': "Cypress #20 Scroll Down Up in Automation Testing"
+                      - generic [ref=e1037]: Testers Talk
+                - button "Action menu" [ref=e1041] [cursor=pointer]:
+                  - generic [ref=e1044]:
+                    - img
+              - generic [ref=e1045]:
+                - 'link "25 Cypress #21 Chapter03 Overview End-to-End Testing 2 minutes, 16 seconds Testers Talk" [ref=e1046] [cursor=pointer]':
+                  - /url: /watch?v=FtXUl2yHAVQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=25&pp=iAQB
+                  - generic [ref=e1047]:
+                    - generic [ref=e1049]: "25"
+                    - link [ref=e1052]:
+                      - /url: /watch?v=FtXUl2yHAVQ&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=25&pp=iAQB
+                    - generic [ref=e1054]:
+                      - 'heading "Cypress #21 Chapter03 Overview End-to-End Testing 2 minutes, 16 seconds" [level=4] [ref=e1055]':
+                        - 'generic "Cypress #21 Chapter03 Overview End-to-End Testing 2 minutes, 16 seconds" [ref=e1056]': "Cypress #21 Chapter03 Overview End-to-End Testing"
+                      - generic [ref=e1058]: Testers Talk
+                - button "Action menu" [ref=e1062] [cursor=pointer]:
+                  - generic [ref=e1065]:
+                    - img
+              - generic [ref=e1066]:
+                - 'link "26 Cypress #22 Hooks in Cypress Automation Testing 10 minutes, 30 seconds Testers Talk" [ref=e1067] [cursor=pointer]':
+                  - /url: /watch?v=uupWzXHa_GA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=26&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e1068]:
+                    - generic [ref=e1070]: "26"
+                    - link [ref=e1073]:
+                      - /url: /watch?v=uupWzXHa_GA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=26&pp=iAQB0gcJCfwJAYcqIYzv
+                    - generic [ref=e1075]:
+                      - 'heading "Cypress #22 Hooks in Cypress Automation Testing 10 minutes, 30 seconds" [level=4] [ref=e1076]':
+                        - 'generic "Cypress #22 Hooks in Cypress Automation Testing 10 minutes, 30 seconds" [ref=e1077]': "Cypress #22 Hooks in Cypress Automation Testing"
+                      - generic [ref=e1079]: Testers Talk
+                - button "Action menu" [ref=e1083] [cursor=pointer]:
+                  - generic [ref=e1086]:
+                    - img
+              - generic [ref=e1087]:
+                - 'link "27 Cypress #23 Skip a Test in Cypress Web Automation 4 minutes, 18 seconds Testers Talk" [ref=e1088] [cursor=pointer]':
+                  - /url: /watch?v=MRmXxdQ3zJA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=27&pp=iAQB
+                  - generic [ref=e1089]:
+                    - generic [ref=e1091]: "27"
+                    - link [ref=e1094]:
+                      - /url: /watch?v=MRmXxdQ3zJA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=27&pp=iAQB
+                    - generic [ref=e1096]:
+                      - 'heading "Cypress #23 Skip a Test in Cypress Web Automation 4 minutes, 18 seconds" [level=4] [ref=e1097]':
+                        - 'generic "Cypress #23 Skip a Test in Cypress Web Automation 4 minutes, 18 seconds" [ref=e1098]': "Cypress #23 Skip a Test in Cypress Web Automation"
+                      - generic [ref=e1100]: Testers Talk
+                - button "Action menu" [ref=e1104] [cursor=pointer]:
+                  - generic [ref=e1107]:
+                    - img
+              - generic [ref=e1108]:
+                - 'link "28 Cypress #24 Repeat Test Multiple Times in Web Automation 4 minutes, 17 seconds Testers Talk" [ref=e1109] [cursor=pointer]':
+                  - /url: /watch?v=jtuqTia8MgM&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=28&pp=iAQB
+                  - generic [ref=e1110]:
+                    - generic [ref=e1112]: "28"
+                    - link [ref=e1115]:
+                      - /url: /watch?v=jtuqTia8MgM&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=28&pp=iAQB
+                    - generic [ref=e1117]:
+                      - 'heading "Cypress #24 Repeat Test Multiple Times in Web Automation 4 minutes, 17 seconds" [level=4] [ref=e1118]':
+                        - 'generic "Cypress #24 Repeat Test Multiple Times in Web Automation 4 minutes, 17 seconds" [ref=e1119]': "Cypress #24 Repeat Test Multiple Times in Web Automation"
+                      - generic [ref=e1121]: Testers Talk
+                - button "Action menu" [ref=e1125] [cursor=pointer]:
+                  - generic [ref=e1128]:
+                    - img
+              - generic [ref=e1129]:
+                - 'link "29 Cypress #25 Retry ReRun Test Automatically When a Test Failed 6 minutes, 47 seconds Testers Talk" [ref=e1130] [cursor=pointer]':
+                  - /url: /watch?v=KWEgtcaBPCk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=29&pp=iAQB
+                  - generic [ref=e1131]:
+                    - generic [ref=e1133]: "29"
+                    - link [ref=e1136]:
+                      - /url: /watch?v=KWEgtcaBPCk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=29&pp=iAQB
+                    - generic [ref=e1138]:
+                      - 'heading "Cypress #25 Retry ReRun Test Automatically When a Test Failed 6 minutes, 47 seconds" [level=4] [ref=e1139]':
+                        - 'generic "Cypress #25 Retry ReRun Test Automatically When a Test Failed 6 minutes, 47 seconds" [ref=e1140]': "Cypress #25 Retry ReRun Test Automatically When a Test Failed"
+                      - generic [ref=e1142]: Testers Talk
+                - button "Action menu" [ref=e1146] [cursor=pointer]:
+                  - generic [ref=e1149]:
+                    - img
+              - generic [ref=e1150]:
+                - 'link "30 Cypress #26 How to Generate HTML Report in Cypress 12 minutes, 21 seconds Testers Talk" [ref=e1151] [cursor=pointer]':
+                  - /url: /watch?v=F1k9GJe7W7c&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=30&pp=iAQB
+                  - generic [ref=e1152]:
+                    - generic [ref=e1154]: "30"
+                    - link [ref=e1157]:
+                      - /url: /watch?v=F1k9GJe7W7c&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=30&pp=iAQB
+                    - generic [ref=e1159]:
+                      - 'heading "Cypress #26 How to Generate HTML Report in Cypress 12 minutes, 21 seconds" [level=4] [ref=e1160]':
+                        - 'generic "Cypress #26 How to Generate HTML Report in Cypress 12 minutes, 21 seconds" [ref=e1161]': "Cypress #26 How to Generate HTML Report in Cypress"
+                      - generic [ref=e1163]: Testers Talk
+                - button "Action menu" [ref=e1167] [cursor=pointer]:
+                  - generic [ref=e1170]:
+                    - img
+              - generic [ref=e1171]:
+                - 'link "31 Cypress #27 Run Multiple JavaScript Spec Files in Cypress 5 minutes, 11 seconds Testers Talk" [ref=e1172] [cursor=pointer]':
+                  - /url: /watch?v=QmNYZCDmPj4&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=31&pp=iAQB
+                  - generic [ref=e1173]:
+                    - generic [ref=e1175]: "31"
+                    - link [ref=e1178]:
+                      - /url: /watch?v=QmNYZCDmPj4&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=31&pp=iAQB
+                    - generic [ref=e1180]:
+                      - 'heading "Cypress #27 Run Multiple JavaScript Spec Files in Cypress 5 minutes, 11 seconds" [level=4] [ref=e1181]':
+                        - 'generic "Cypress #27 Run Multiple JavaScript Spec Files in Cypress 5 minutes, 11 seconds" [ref=e1182]': "Cypress #27 Run Multiple JavaScript Spec Files in Cypress"
+                      - generic [ref=e1184]: Testers Talk
+                - button "Action menu" [ref=e1188] [cursor=pointer]:
+                  - generic [ref=e1191]:
+                    - img
+              - generic [ref=e1192]:
+                - 'link "32 Cypress #28 Run a Group of Tests in Cypress 8 minutes, 6 seconds Testers Talk" [ref=e1193] [cursor=pointer]':
+                  - /url: /watch?v=_NSMtRP9IoA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=32&pp=iAQB
+                  - generic [ref=e1194]:
+                    - generic [ref=e1196]: "32"
+                    - link [ref=e1199]:
+                      - /url: /watch?v=_NSMtRP9IoA&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=32&pp=iAQB
+                    - generic [ref=e1201]:
+                      - 'heading "Cypress #28 Run a Group of Tests in Cypress 8 minutes, 6 seconds" [level=4] [ref=e1202]':
+                        - 'generic "Cypress #28 Run a Group of Tests in Cypress 8 minutes, 6 seconds" [ref=e1203]': "Cypress #28 Run a Group of Tests in Cypress"
+                      - generic [ref=e1205]: Testers Talk
+                - button "Action menu" [ref=e1209] [cursor=pointer]:
+                  - generic [ref=e1212]:
+                    - img
+              - generic [ref=e1213]:
+                - 'link "33 Cypress #29 Chapter04 Overview End-to-End Testing 1 minute, 54 seconds Testers Talk" [ref=e1214] [cursor=pointer]':
+                  - /url: /watch?v=o_utxdayuOU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=33&pp=iAQB
+                  - generic [ref=e1215]:
+                    - generic [ref=e1217]: "33"
+                    - link [ref=e1220]:
+                      - /url: /watch?v=o_utxdayuOU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=33&pp=iAQB
+                    - generic [ref=e1222]:
+                      - 'heading "Cypress #29 Chapter04 Overview End-to-End Testing 1 minute, 54 seconds" [level=4] [ref=e1223]':
+                        - 'generic "Cypress #29 Chapter04 Overview End-to-End Testing 1 minute, 54 seconds" [ref=e1224]': "Cypress #29 Chapter04 Overview End-to-End Testing"
+                      - generic [ref=e1226]: Testers Talk
+                - button "Action menu" [ref=e1230] [cursor=pointer]:
+                  - generic [ref=e1233]:
+                    - img
+              - generic [ref=e1234]:
+                - 'link "34 Cypress #30 Data Driven Testing Part01 14 minutes, 7 seconds Testers Talk" [ref=e1235] [cursor=pointer]':
+                  - /url: /watch?v=pHbKRFP33Ps&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=34&pp=iAQB
+                  - generic [ref=e1236]:
+                    - generic [ref=e1238]: "34"
+                    - link [ref=e1241]:
+                      - /url: /watch?v=pHbKRFP33Ps&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=34&pp=iAQB
+                    - generic [ref=e1243]:
+                      - 'heading "Cypress #30 Data Driven Testing Part01 14 minutes, 7 seconds" [level=4] [ref=e1244]':
+                        - 'generic "Cypress #30 Data Driven Testing Part01 14 minutes, 7 seconds" [ref=e1245]': "Cypress #30 Data Driven Testing Part01"
+                      - generic [ref=e1247]: Testers Talk
+                - button "Action menu" [ref=e1251] [cursor=pointer]:
+                  - generic [ref=e1254]:
+                    - img
+              - generic [ref=e1255]:
+                - 'link "35 Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data 8 minutes, 59 seconds Testers Talk" [ref=e1256] [cursor=pointer]':
+                  - /url: /watch?v=GvdkgqcQOZ8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=35&pp=iAQB
+                  - generic [ref=e1257]:
+                    - generic [ref=e1259]: "35"
+                    - link [ref=e1262]:
+                      - /url: /watch?v=GvdkgqcQOZ8&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=35&pp=iAQB
+                    - generic [ref=e1264]:
+                      - 'heading "Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data 8 minutes, 59 seconds" [level=4] [ref=e1265]':
+                        - 'generic "Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data 8 minutes, 59 seconds" [ref=e1266]': "Cypress #31 Data Driven Testing Part02 - Multiple Sets Of Test Data"
+                      - generic [ref=e1268]: Testers Talk
+                - button "Action menu" [ref=e1272] [cursor=pointer]:
+                  - generic [ref=e1275]:
+                    - img
+              - generic [ref=e1276]:
+                - 'link "36 Cypress #32 Page Object Model in Cypress 28 minutes Testers Talk" [ref=e1277] [cursor=pointer]':
+                  - /url: /watch?v=5rrkqqfwoJU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=36&pp=iAQB
+                  - generic [ref=e1278]:
+                    - generic [ref=e1280]: "36"
+                    - link [ref=e1283]:
+                      - /url: /watch?v=5rrkqqfwoJU&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=36&pp=iAQB
+                    - generic [ref=e1285]:
+                      - 'heading "Cypress #32 Page Object Model in Cypress 28 minutes" [level=4] [ref=e1286]':
+                        - 'generic "Cypress #32 Page Object Model in Cypress 28 minutes" [ref=e1287]': "Cypress #32 Page Object Model in Cypress"
+                      - generic [ref=e1289]: Testers Talk
+                - button "Action menu" [ref=e1293] [cursor=pointer]:
+                  - generic [ref=e1296]:
+                    - img
+              - generic [ref=e1297]:
+                - 'link "37 Cypress #33 Video Recording - Test Execution 5 minutes, 49 seconds Testers Talk" [ref=e1298] [cursor=pointer]':
+                  - /url: /watch?v=AjUHKBVFhNs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=37&pp=iAQB
+                  - generic [ref=e1299]:
+                    - generic [ref=e1301]: "37"
+                    - link [ref=e1304]:
+                      - /url: /watch?v=AjUHKBVFhNs&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=37&pp=iAQB
+                    - generic [ref=e1306]:
+                      - 'heading "Cypress #33 Video Recording - Test Execution 5 minutes, 49 seconds" [level=4] [ref=e1307]':
+                        - 'generic "Cypress #33 Video Recording - Test Execution 5 minutes, 49 seconds" [ref=e1308]': "Cypress #33 Video Recording - Test Execution"
+                      - generic [ref=e1310]: Testers Talk
+                - button "Action menu" [ref=e1314] [cursor=pointer]:
+                  - generic [ref=e1317]:
+                    - img
+              - generic [ref=e1318]:
+                - link "38 Cypress Automation Testing Part01 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 18 minutes Testers Talk" [ref=e1319] [cursor=pointer]:
+                  - /url: /watch?v=kZbuYLalk9U&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=38&pp=iAQB0gcJCfwJAYcqIYzv
+                  - generic [ref=e1320]:
+                    - generic [ref=e1322]: "38"
+                    - link [ref=e1325]:
+                      - /url: /watch?v=kZbuYLalk9U&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=38&pp=iAQB0gcJCfwJAYcqIYzv
+                    - generic [ref=e1327]:
+                      - heading "Cypress Automation Testing Part01 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 18 minutes" [level=4] [ref=e1328]:
+                        - generic "Cypress Automation Testing Part01 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 18 minutes" [ref=e1329]: Cypress Automation Testing Part01 | Cypress Tutorial | Cypress Testing with JavaScript
+                      - generic [ref=e1331]: Testers Talk
+                - button "Action menu" [ref=e1335] [cursor=pointer]:
+                  - generic [ref=e1338]:
+                    - img
+              - generic [ref=e1339]:
+                - link "39 Cypress Automation Testing Part02 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 51 minutes Testers Talk" [ref=e1340] [cursor=pointer]:
+                  - /url: /watch?v=qa2zygrqV40&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=39&pp=iAQB
+                  - generic [ref=e1341]:
+                    - generic [ref=e1343]: "39"
+                    - link [ref=e1346]:
+                      - /url: /watch?v=qa2zygrqV40&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=39&pp=iAQB
+                    - generic [ref=e1348]:
+                      - heading "Cypress Automation Testing Part02 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 51 minutes" [level=4] [ref=e1349]:
+                        - generic "Cypress Automation Testing Part02 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour, 51 minutes" [ref=e1350]: Cypress Automation Testing Part02 | Cypress Tutorial | Cypress Testing with JavaScript
+                      - generic [ref=e1352]: Testers Talk
+                - button "Action menu" [ref=e1356] [cursor=pointer]:
+                  - generic [ref=e1359]:
+                    - img
+              - generic [ref=e1360]:
+                - link "40 Cypress Automation Testing Part03 | Cypress Tutorial | Cypress Testing with JavaScript 54 minutes Testers Talk" [ref=e1361] [cursor=pointer]:
+                  - /url: /watch?v=Df8CXzhG6Vk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=40&pp=iAQB
+                  - generic [ref=e1362]:
+                    - generic [ref=e1364]: "40"
+                    - link [ref=e1367]:
+                      - /url: /watch?v=Df8CXzhG6Vk&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=40&pp=iAQB
+                    - generic [ref=e1369]:
+                      - heading "Cypress Automation Testing Part03 | Cypress Tutorial | Cypress Testing with JavaScript 54 minutes" [level=4] [ref=e1370]:
+                        - generic "Cypress Automation Testing Part03 | Cypress Tutorial | Cypress Testing with JavaScript 54 minutes" [ref=e1371]: Cypress Automation Testing Part03 | Cypress Tutorial | Cypress Testing with JavaScript
+                      - generic [ref=e1373]: Testers Talk
+                - button "Action menu" [ref=e1377] [cursor=pointer]:
+                  - generic [ref=e1380]:
+                    - img
+              - generic [ref=e1381]:
+                - link "41 Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour Testers Talk" [ref=e1382] [cursor=pointer]:
+                  - /url: /watch?v=WaJzoZTdiW0&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=41&pp=iAQB
+                  - generic [ref=e1383]:
+                    - generic [ref=e1385]: "41"
+                    - link [ref=e1388]:
+                      - /url: /watch?v=WaJzoZTdiW0&list=PLUeDIlio4THEbdE2jWyBBxkWqjk4JmHHq&index=41&pp=iAQB
+                    - generic [ref=e1390]:
+                      - heading "Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour" [level=4] [ref=e1391]:
+                        - generic "Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript 1 hour" [ref=e1392]: Cypress Automation Testing Part04 | Cypress Tutorial | Cypress Testing with JavaScript
+                      - generic [ref=e1394]: Testers Talk
+                - button "Action menu" [ref=e1398] [cursor=pointer]:
+                  - generic [ref=e1401]:
+                    - img
+          - generic [ref=e1403]:
+            - iframe
+            - generic [ref=e1405]: Chat Replay is disabled for this Premiere.
+          - generic [ref=e1410]:
+            - generic [ref=e1419]:
+              - generic [ref=e1420] [cursor=pointer]:
+                - generic [ref=e1421]:
+                  - link "Secure Conversational AI Stack" [ref=e1424]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHuX7fG_1aLaGL9vo0_wPz_vw2QLA2vTiggGaisXy-xSwkB8QASAAYKvh5IGwBoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHW0NOeP6gDBMgDCqoE3AJP0JNDTBqMRk4HkBylwnOON4EJEQzh8AVqr-I0I8Pk5_KuTvDa1bcZBj_1Si0CzID6QNKw_6tHmadLK8xm9pWrpPt930Fky6aADn3V_dri5IzY1WZdiQd_vabRtOtAuuf-xuIidL39WsVm4Bla0vsEfxMPtWp8rNphNKhgxS7NX_2eQvyxSkITHNZANnnulznkzSOWePhy7SayBzc41NOi6jXCEWVcn43egTF5Mc1yDfcB_5pOX6k7GIDYL1QmhO9qkZW91pEbvK6cMs5kuL82aMfP7qfsRAJHLi4gqG8_j4ZhjmVcznPG_bZWNz860916xqKBt9M73DbbF_wonTgnIR9dWsRnyUtcTQVrTRhZ3IO-n_cSbiYaMrHUur52k9WHJLJL5lhwlKf9wLbTR9O05I1QBXiGkVrxI18IMhmmYXCbhHvsJOoPreI9wneA0XOYc-E6Jp4cQQks8eiIBfnkwdNVkgUKCBNoAnjpqeaSGqAGboAH1oik_hmQBwSoB6HasQKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYgJ6m47CxkAPyCB9jYS15dC1ob3N0LXB1Yi05NjA5NTkzODcxNTAzMDI1mgkjaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXOxCZNplTinetbeyAkAyAmKApgLAaELc05MSHLXsyu6CzUIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBdALEtoMJQoKEPDZsej31uCbMRICAQMaDRj55MHTVSCTuLnCvAVAAUoCEB-aDQESqg0CQ0_IDQHSDdQBaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXM_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPXQyX2Rpc3BsYXlfY29udmVyc2F0aW9uYWxhaV9lbmdsaXNoJnV0bV9pZD0yMjk5MjE1NTI1NyZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9Y29udmFpX3NpZ25hbCZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI5OTIxNTUyNTe4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF0xHLeO7rC1VuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMItrSm47CxkAMVW_SUCR3PPTwrEAEYASAAEgIp9_D_BwE&num=1&cid=CAAStQHkaOKqVGgaXgXpZ4aX0xuFDye0rtGk0IxkNBpnhDlzFTHSfVmXUkhYscupT9GZdV0z2udHzdoBk76rNxY_Bx5E7_06moWr86gdMKsnOCBcHfk1xFz0qWv4jY-HcyVeB49mnsezIrKfpqVYsPPkCxtYvTZmMIGRDewH-tb9p8L2MohXYqiKsLtCjNQ2hp5ctTy4NxeoctszjVxjZ2UqOqIjgYGMg0hctciD7lLe_Olym5k5Vg_b&sig=AOD64_2SHqVnweYn5q8jZmYE45emcQ1clg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - link "Smarter conversations, stronger loyalty. Ready to see it in action?" [ref=e1427]:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHuX7fG_1aLaGL9vo0_wPz_vw2QLA2vTiggGaisXy-xSwkB8QASAAYKvh5IGwBoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHW0NOeP6gDBMgDCqoE3AJP0JNDTBqMRk4HkBylwnOON4EJEQzh8AVqr-I0I8Pk5_KuTvDa1bcZBj_1Si0CzID6QNKw_6tHmadLK8xm9pWrpPt930Fky6aADn3V_dri5IzY1WZdiQd_vabRtOtAuuf-xuIidL39WsVm4Bla0vsEfxMPtWp8rNphNKhgxS7NX_2eQvyxSkITHNZANnnulznkzSOWePhy7SayBzc41NOi6jXCEWVcn43egTF5Mc1yDfcB_5pOX6k7GIDYL1QmhO9qkZW91pEbvK6cMs5kuL82aMfP7qfsRAJHLi4gqG8_j4ZhjmVcznPG_bZWNz860916xqKBt9M73DbbF_wonTgnIR9dWsRnyUtcTQVrTRhZ3IO-n_cSbiYaMrHUur52k9WHJLJL5lhwlKf9wLbTR9O05I1QBXiGkVrxI18IMhmmYXCbhHvsJOoPreI9wneA0XOYc-E6Jp4cQQks8eiIBfnkwdNVkgUKCBNoAnjpqeaSGqAGboAH1oik_hmQBwSoB6HasQKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYgJ6m47CxkAPyCB9jYS15dC1ob3N0LXB1Yi05NjA5NTkzODcxNTAzMDI1mgkjaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXOxCZNplTinetbeyAkAyAmKApgLAaELc05MSHLXsyu6CzUIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBdALEtoMJQoKEPDZsej31uCbMRICAQMaDRj55MHTVSCTuLnCvAVAAUoCEB-aDQESqg0CQ0_IDQHSDdQBaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXM_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPXQyX2Rpc3BsYXlfY29udmVyc2F0aW9uYWxhaV9lbmdsaXNoJnV0bV9pZD0yMjk5MjE1NTI1NyZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9Y29udmFpX3NpZ25hbCZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI5OTIxNTUyNTe4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF0xHLeO7rC1VuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMItrSm47CxkAMVW_SUCR3PPTwrEAEYASAAEgIp9_D_BwE&num=1&cid=CAAStQHkaOKqVGgaXgXpZ4aX0xuFDye0rtGk0IxkNBpnhDlzFTHSfVmXUkhYscupT9GZdV0z2udHzdoBk76rNxY_Bx5E7_06moWr86gdMKsnOCBcHfk1xFz0qWv4jY-HcyVeB49mnsezIrKfpqVYsPPkCxtYvTZmMIGRDewH-tb9p8L2MohXYqiKsLtCjNQ2hp5ctTy4NxeoctszjVxjZ2UqOqIjgYGMg0hctciD7lLe_Olym5k5Vg_b&sig=AOD64_2SHqVnweYn5q8jZmYE45emcQ1clg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                  - generic [ref=e1428]:
+                    - generic [ref=e1430]:
+                      - generic [ref=e1431]: Sponsored
+                      - text: ·
+                    - generic [ref=e1433]: ElevenLabs
+                - button "My Ad Center" [ref=e1436]:
+                  - generic [ref=e1440]:
+                    - img
+              - link "Visit site" [ref=e1445] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHuX7fG_1aLaGL9vo0_wPz_vw2QLA2vTiggGaisXy-xSwkB8QASAAYKvh5IGwBoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHW0NOeP6gDBMgDCqoE3AJP0JNDTBqMRk4HkBylwnOON4EJEQzh8AVqr-I0I8Pk5_KuTvDa1bcZBj_1Si0CzID6QNKw_6tHmadLK8xm9pWrpPt930Fky6aADn3V_dri5IzY1WZdiQd_vabRtOtAuuf-xuIidL39WsVm4Bla0vsEfxMPtWp8rNphNKhgxS7NX_2eQvyxSkITHNZANnnulznkzSOWePhy7SayBzc41NOi6jXCEWVcn43egTF5Mc1yDfcB_5pOX6k7GIDYL1QmhO9qkZW91pEbvK6cMs5kuL82aMfP7qfsRAJHLi4gqG8_j4ZhjmVcznPG_bZWNz860916xqKBt9M73DbbF_wonTgnIR9dWsRnyUtcTQVrTRhZ3IO-n_cSbiYaMrHUur52k9WHJLJL5lhwlKf9wLbTR9O05I1QBXiGkVrxI18IMhmmYXCbhHvsJOoPreI9wneA0XOYc-E6Jp4cQQks8eiIBfnkwdNVkgUKCBNoAnjpqeaSGqAGboAH1oik_hmQBwSoB6HasQKoB_LAsQKoB7jEsQKoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB--1sQKoB_C1sQKoB_nTsQKoB4QIqAem1LECqAeo0huoB7YHqAex3BuoB7CbsQKoB66xsQKoB-a8sQKoB8q6sQKoB_2ysQKoB_e4sQKoB_i4sQKoB8jPsQKoB8nPsQKoB83HsQKoB_HRsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgHq8UbqAe3obECqAfVqbECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbEC0ggpCIBBEAEYXjICggI6DIBCgMCAgICAgIACKkjZoNI1UBRYgJ6m47CxkAPyCB9jYS15dC1ob3N0LXB1Yi05NjA5NTkzODcxNTAzMDI1mgkjaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXOxCZNplTinetbeyAkAyAmKApgLAaELc05MSHLXsyu6CzUIARAFGAQgCCgBMBpAAUgAWAFgAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBdALEtoMJQoKEPDZsej31uCbMRICAQMaDRj55MHTVSCTuLnCvAVAAUoCEB-aDQESqg0CQ0_IDQHSDdQBaHR0cHM6Ly9lbGV2ZW5sYWJzLmlvL2NvbnRhY3Qtc2FsZXM_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1jcGMmdXRtX2NhbXBhaWduPXQyX2Rpc3BsYXlfY29udmVyc2F0aW9uYWxhaV9lbmdsaXNoJnV0bV9pZD0yMjk5MjE1NTI1NyZ1dG1fdGVybT0mdXRtX2NvbnRlbnQ9Y29udmFpX3NpZ25hbCZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI5OTIxNTUyNTe4E____________wGIFAGwFAHAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXFggDGAEgASgBMAE4AUABSAFQAVgBYAKgFwGpF0xHLeO7rC1VuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMItrSm47CxkAMVW_SUCR3PPTwrEAEYASAAEgIp9_D_BwE&num=1&cid=CAAStQHkaOKqVGgaXgXpZ4aX0xuFDye0rtGk0IxkNBpnhDlzFTHSfVmXUkhYscupT9GZdV0z2udHzdoBk76rNxY_Bx5E7_06moWr86gdMKsnOCBcHfk1xFz0qWv4jY-HcyVeB49mnsezIrKfpqVYsPPkCxtYvTZmMIGRDewH-tb9p8L2MohXYqiKsLtCjNQ2hp5ctTy4NxeoctszjVxjZ2UqOqIjgYGMg0hctciD7lLe_Olym5k5Vg_b&sig=AOD64_2SHqVnweYn5q8jZmYE45emcQ1clg&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D
+                - generic [ref=e1446]: Visit site
+            - generic [ref=e1451] [cursor=pointer]:
+              - link [ref=e1452]:
+                - /url: /watch?v=ACUMZ3OkExQ
+                - generic [ref=e1458]: 4:30:59
+              - generic [ref=e1460]:
+                - generic [ref=e1461]:
+                  - heading "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners 4 hours, 30 minutes" [level=3] [ref=e1462]:
+                    - link "JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners 4 hours, 30 minutes" [ref=e1463]:
+                      - /url: /watch?v=ACUMZ3OkExQ
+                      - text: JavaScript Tutorial Full Course | JavaScript Tutorial For Beginners
+                  - generic [ref=e1465]:
+                    - generic [ref=e1467]: Testers Talk
+                    - generic [ref=e1468]:
+                      - generic [ref=e1469]: 10K views
+                      - generic [ref=e1470]: •
+                      - generic [ref=e1471]: 2 years ago
+                - button "More actions" [ref=e1474]:
+                  - generic [ref=e1478]:
+                    - img
+            - generic [ref=e1483] [cursor=pointer]:
+              - link [ref=e1484]:
+                - /url: /watch?v=tRI5ruE7yCA
+                - generic [ref=e1490]: 1:20:54
+              - generic [ref=e1492]:
+                - generic [ref=e1493]:
+                  - heading "Cypress Complete Beginners Masterclass 1 | Step by Step | Raghav Pal | 1 hour, 20 minutes" [level=3] [ref=e1494]:
+                    - link "Cypress Complete Beginners Masterclass 1 | Step by Step | Raghav Pal | 1 hour, 20 minutes" [ref=e1495]:
+                      - /url: /watch?v=tRI5ruE7yCA
+                      - text: Cypress Complete Beginners Masterclass 1 | Step by Step | Raghav Pal |
+                  - generic [ref=e1497]:
+                    - generic [ref=e1499]:
+                      - text: Automation Step by Step
+                      - img [ref=e1502]:
+                        - generic [ref=e1504]:
+                          - img
+                    - generic [ref=e1505]:
+                      - generic [ref=e1506]: 244K views
+                      - generic [ref=e1507]: •
+                      - generic [ref=e1508]: 3 years ago
+                - button "More actions" [ref=e1511]:
+                  - generic [ref=e1515]:
+                    - img
+            - generic [ref=e1520] [cursor=pointer]:
+              - link [ref=e1521]:
+                - /url: /watch?v=jX3v3N6oN5M
+                - generic [ref=e1527]: 3:02:18
+              - generic [ref=e1529]:
+                - generic [ref=e1530]:
+                  - 'heading "Cypress Tutorial: Complete Cypress Crash Course In 3 Hours (For Beginners) 3 hours, 2 minutes" [level=3] [ref=e1531]':
+                    - 'link "Cypress Tutorial: Complete Cypress Crash Course In 3 Hours (For Beginners) 3 hours, 2 minutes" [ref=e1532]':
+                      - /url: /watch?v=jX3v3N6oN5M
+                      - text: "Cypress Tutorial: Complete Cypress Crash Course In 3 Hours (For Beginners)"
+                  - generic [ref=e1534]:
+                    - generic [ref=e1536]: LambdaTest
+                    - generic [ref=e1537]:
+                      - generic [ref=e1538]: 242K views
+                      - generic [ref=e1539]: •
+                      - generic [ref=e1540]: 3 years ago
+                - button "More actions" [ref=e1543]:
+                  - generic [ref=e1547]:
+                    - img
+            - generic [ref=e1552] [cursor=pointer]:
+              - link [ref=e1553]:
+                - /url: /watch?v=-MUT2uN-V9A
+                - generic [ref=e1559]: 5:04
+              - generic [ref=e1561]:
+                - generic [ref=e1562]:
+                  - 'heading "Emi Compiler: Why alternative GRPC is bad option 5 minutes, 4 seconds" [level=3] [ref=e1563]':
+                    - 'link "Emi Compiler: Why alternative GRPC is bad option 5 minutes, 4 seconds" [ref=e1564]':
+                      - /url: /watch?v=-MUT2uN-V9A
+                      - text: "Emi Compiler: Why alternative GRPC is bad option"
+                  - generic [ref=e1566]:
+                    - generic [ref=e1568]: Ali Torabi
+                    - generic [ref=e1569]:
+                      - generic [ref=e1570]: 12 views
+                      - generic [ref=e1571]: •
+                      - generic [ref=e1572]: 8 hours ago
+                    - generic [ref=e1577]: New
+                - button "More actions" [ref=e1580]:
+                  - generic [ref=e1584]:
+                    - img
+            - generic [ref=e1589] [cursor=pointer]:
+              - link [ref=e1590]:
+                - /url: /watch?v=CYcdT-tOvB0&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo
+                - generic [ref=e1600]:
+                  - generic [ref=e1603]:
+                    - img
+                  - generic [ref=e1604]: 21 lessons
+              - generic [ref=e1607]:
+                - heading "Cypress Beginner Tutorials" [level=3] [ref=e1608]:
+                  - link "Cypress Beginner Tutorials" [ref=e1609]:
+                    - /url: /watch?v=CYcdT-tOvB0&list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo
+                - generic [ref=e1611]:
+                  - generic [ref=e1612]:
+                    - link "Automation Step by Step" [ref=e1615]:
+                      - /url: /@RaghavPal
+                      - text: Automation Step by Step
+                      - img [ref=e1618]:
+                        - generic [ref=e1620]:
+                          - img
+                    - generic [ref=e1621]: •
+                    - link "Course" [ref=e1624]:
+                      - /url: /@RaghavPal
+                  - link "View full course" [ref=e1628]:
+                    - /url: /playlist?list=PLhW3qG5bs-L9LTfxZ5LEBiM1WFfvX3dJo
+            - generic [ref=e1630] [cursor=pointer]:
+              - link [ref=e1631]:
+                - /url: /watch?v=0PqHyqA1PJU
+                - generic [ref=e1637]: 1:35:40
+              - generic [ref=e1639]:
+                - generic [ref=e1640]:
+                  - heading "How to use ChatGPT in Software Testing and Automation | Revolutionise Software Testing & Automation 1 hour, 35 minutes" [level=3] [ref=e1641]:
+                    - link "How to use ChatGPT in Software Testing and Automation | Revolutionise Software Testing & Automation 1 hour, 35 minutes" [ref=e1642]:
+                      - /url: /watch?v=0PqHyqA1PJU
+                      - text: How to use ChatGPT in Software Testing and Automation | Revolutionise Software Testing & Automation
+                  - generic [ref=e1644]:
+                    - generic [ref=e1646]:
+                      - text: SDET- QA
+                      - img [ref=e1649]:
+                        - generic [ref=e1651]:
+                          - img
+                    - generic [ref=e1652]:
+                      - generic [ref=e1653]: 199K views
+                      - generic [ref=e1654]: •
+                      - generic [ref=e1655]: 1 year ago
+                - button "More actions" [ref=e1658]:
+                  - generic [ref=e1662]:
+                    - img
+            - generic [ref=e1667] [cursor=pointer]:
+              - link [ref=e1668]:
+                - /url: /watch?v=69SFwgWHUig&list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU
+                - generic [ref=e1678]:
+                  - generic [ref=e1681]:
+                    - img
+                  - generic [ref=e1682]: 21 videos
+              - generic [ref=e1685]:
+                - heading "Cypress - JavaScript End to End Testing(2022 Series)" [level=3] [ref=e1686]:
+                  - link "Cypress - JavaScript End to End Testing(2022 Series)" [ref=e1687]:
+                    - /url: /watch?v=69SFwgWHUig&list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU
+                - generic [ref=e1689]:
+                  - generic [ref=e1690]:
+                    - link "SDET- QA" [ref=e1693]:
+                      - /url: /@sdetpavan
+                      - text: SDET- QA
+                      - img [ref=e1696]:
+                        - generic [ref=e1698]:
+                          - img
+                    - generic [ref=e1699]: •
+                    - link "Playlist" [ref=e1702]:
+                      - /url: /@sdetpavan
+                  - link "View full playlist" [ref=e1706]:
+                    - /url: /playlist?list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU
+            - generic [ref=e1708] [cursor=pointer]:
+              - link [ref=e1709]:
+                - /url: /watch?v=SeybVD0NMQI
+                - generic [ref=e1715]: 1:54:23
+              - generic [ref=e1717]:
+                - generic [ref=e1718]:
+                  - heading "How to Build & Sell Web Apps With AI Without Coding (FULL COURSE) 1 hour, 54 minutes" [level=3] [ref=e1719]:
+                    - link "How to Build & Sell Web Apps With AI Without Coding (FULL COURSE) 1 hour, 54 minutes" [ref=e1720]:
+                      - /url: /watch?v=SeybVD0NMQI
+                      - text: How to Build & Sell Web Apps With AI Without Coding (FULL COURSE)
+                  - generic [ref=e1722]:
+                    - generic [ref=e1724]:
+                      - text: Liam Ottley
+                      - img [ref=e1727]:
+                        - generic [ref=e1729]:
+                          - img
+                    - generic [ref=e1730]:
+                      - generic [ref=e1731]: 353K views
+                      - generic [ref=e1732]: •
+                      - generic [ref=e1733]: 2 months ago
+                - button "More actions" [ref=e1736]:
+                  - generic [ref=e1740]:
+                    - img
+            - generic [ref=e1745] [cursor=pointer]:
+              - link [ref=e1746]:
+                - /url: /watch?v=AnyKTiC3P1M
+                - generic [ref=e1752]: 2:42:18
+              - generic [ref=e1754]:
+                - generic [ref=e1755]:
+                  - heading "Cypress Automation Testing from scratch for Beginners | Complete Step-by-Step Guide 2 hours, 42 minutes" [level=3] [ref=e1756]:
+                    - link "Cypress Automation Testing from scratch for Beginners | Complete Step-by-Step Guide 2 hours, 42 minutes" [ref=e1757]:
+                      - /url: /watch?v=AnyKTiC3P1M
+                      - text: Cypress Automation Testing from scratch for Beginners | Complete Step-by-Step Guide
+                  - generic [ref=e1759]:
+                    - generic [ref=e1761]: Test Automation 101
+                    - generic [ref=e1762]:
+                      - generic [ref=e1763]: 8K views
+                      - generic [ref=e1764]: •
+                      - generic [ref=e1765]: 8 months ago
+                - button "More actions" [ref=e1768]:
+                  - generic [ref=e1772]:
+                    - img
+            - generic [ref=e1777] [cursor=pointer]:
+              - link [ref=e1778]:
+                - /url: /watch?v=u8vMu7viCm8
+                - generic [ref=e1784]: 2:39:33
+              - generic [ref=e1786]:
+                - generic [ref=e1787]:
+                  - heading "Testing JavaScript with Cypress – Full Course 2 hours, 39 minutes" [level=3] [ref=e1788]:
+                    - link "Testing JavaScript with Cypress – Full Course 2 hours, 39 minutes" [ref=e1789]:
+                      - /url: /watch?v=u8vMu7viCm8
+                      - text: Testing JavaScript with Cypress – Full Course
+                  - generic [ref=e1791]:
+                    - generic [ref=e1793]:
+                      - text: freeCodeCamp.org
+                      - img [ref=e1796]:
+                        - generic [ref=e1798]:
+                          - img
+                    - generic [ref=e1799]:
+                      - generic [ref=e1800]: 289K views
+                      - generic [ref=e1801]: •
+                      - generic [ref=e1802]: 2 years ago
+                - button "More actions" [ref=e1805]:
+                  - generic [ref=e1809]:
+                    - img
+            - generic [ref=e1814] [cursor=pointer]:
+              - link [ref=e1815]:
+                - /url: /watch?v=9jE4eaP9K7Q
+                - generic [ref=e1821]: 17:43
+              - generic [ref=e1823]:
+                - generic [ref=e1824]:
+                  - 'heading "El Gato de Schrödinger pero DE VERDAD: El Nobel 2025 EXPLICADO 17 minutes" [level=3] [ref=e1825]':
+                    - 'link "El Gato de Schrödinger pero DE VERDAD: El Nobel 2025 EXPLICADO 17 minutes" [ref=e1826]':
+                      - /url: /watch?v=9jE4eaP9K7Q
+                      - text: "El Gato de Schrödinger pero DE VERDAD: El Nobel 2025 EXPLICADO"
+                  - generic [ref=e1828]:
+                    - generic [ref=e1830]:
+                      - text: QuantumFracture
+                      - img [ref=e1833]:
+                        - generic [ref=e1835]:
+                          - img
+                    - generic [ref=e1836]:
+                      - generic [ref=e1837]: 59K views
+                      - generic [ref=e1838]: •
+                      - generic [ref=e1839]: 5 hours ago
+                    - generic [ref=e1844]: New
+                - button "More actions" [ref=e1847]:
+                  - generic [ref=e1851]:
+                    - img
+            - generic [ref=e1856] [cursor=pointer]:
+              - link [ref=e1857]:
+                - /url: /watch?v=zp5Jh2FIpF0
+                - generic [ref=e1863]: 4:16:01
+              - generic [ref=e1865]:
+                - generic [ref=e1866]:
+                  - heading "Postman API Test Automation for Beginners 4 hours, 16 minutes" [level=3] [ref=e1867]:
+                    - link "Postman API Test Automation for Beginners 4 hours, 16 minutes" [ref=e1868]:
+                      - /url: /watch?v=zp5Jh2FIpF0
+                      - text: Postman API Test Automation for Beginners
+                  - generic [ref=e1870]:
+                    - generic [ref=e1872]:
+                      - text: freeCodeCamp.org
+                      - img [ref=e1875]:
+                        - generic [ref=e1877]:
+                          - img
+                    - generic [ref=e1878]:
+                      - generic [ref=e1879]: 250K views
+                      - generic [ref=e1880]: •
+                      - generic [ref=e1881]: 2 years ago
+                - button "More actions" [ref=e1884]:
+                  - generic [ref=e1888]:
+                    - img
+            - generic [ref=e1893] [cursor=pointer]:
+              - link [ref=e1894]:
+                - /url: /watch?v=VywxIQ2ZXw4
+                - generic [ref=e1900]: 2:09:38
+              - generic [ref=e1902]:
+                - generic [ref=e1903]:
+                  - heading "Postman Beginner's Course - API Testing 2 hours, 9 minutes" [level=3] [ref=e1904]:
+                    - link "Postman Beginner's Course - API Testing 2 hours, 9 minutes" [ref=e1905]:
+                      - /url: /watch?v=VywxIQ2ZXw4
+                      - text: Postman Beginner's Course - API Testing
+                  - generic [ref=e1907]:
+                    - generic [ref=e1909]:
+                      - text: freeCodeCamp.org
+                      - img [ref=e1912]:
+                        - generic [ref=e1914]:
+                          - img
+                    - generic [ref=e1915]:
+                      - generic [ref=e1916]: 2.8M views
+                      - generic [ref=e1917]: •
+                      - generic [ref=e1918]: 4 years ago
+                - button "More actions" [ref=e1921]:
+                  - generic [ref=e1925]:
+                    - img
+            - generic [ref=e1930] [cursor=pointer]:
+              - link [ref=e1931]:
+                - /url: /watch?v=2poXBtifpzA
+                - generic [ref=e1937]: 6:55:08
+              - generic [ref=e1939]:
+                - generic [ref=e1940]:
+                  - heading "#1 Playwright Tutorial Full Course 2024 | Playwright Testing Tutorial 6 hours, 55 minutes" [level=3] [ref=e1941]:
+                    - link "#1 Playwright Tutorial Full Course 2024 | Playwright Testing Tutorial 6 hours, 55 minutes" [ref=e1942]:
+                      - /url: /watch?v=2poXBtifpzA
+                      - text: "#1 Playwright Tutorial Full Course 2024 | Playwright Testing Tutorial"
+                  - generic [ref=e1944]:
+                    - generic [ref=e1946]: Testers Talk
+                    - generic [ref=e1947]:
+                      - generic [ref=e1948]: 107K views
+                      - generic [ref=e1949]: •
+                      - generic [ref=e1950]: 1 year ago
+                - button "More actions" [ref=e1953]:
+                  - generic [ref=e1957]:
+                    - img
+            - generic [ref=e1962] [cursor=pointer]:
+              - link [ref=e1963]:
+                - /url: /watch?v=bpuEAzYDTy4
+                - generic [ref=e1969]: 8:28
+              - generic [ref=e1971]:
+                - generic [ref=e1972]:
+                  - 'heading "Cypress Tutorial #1 - Introduction to Cypress | Cypress Web Automation 8 minutes, 28 seconds" [level=3] [ref=e1973]':
+                    - 'link "Cypress Tutorial #1 - Introduction to Cypress | Cypress Web Automation 8 minutes, 28 seconds" [ref=e1974]':
+                      - /url: /watch?v=bpuEAzYDTy4
+                      - text: "Cypress Tutorial #1 - Introduction to Cypress | Cypress Web Automation"
+                  - generic [ref=e1976]:
+                    - generic [ref=e1978]:
+                      - text: Software Testing Mentor
+                      - img [ref=e1981]:
+                        - generic [ref=e1983]:
+                          - img
+                    - generic [ref=e1984]:
+                      - generic [ref=e1985]: 42K views
+                      - generic [ref=e1986]: •
+                      - generic [ref=e1987]: 2 years ago
+                - button "More actions" [ref=e1990]:
+                  - generic [ref=e1994]:
+                    - img
+            - generic [ref=e1999] [cursor=pointer]:
+              - link [ref=e2000]:
+                - /url: /watch?v=DtkKK9SayR8
+                - generic [ref=e2006]: 24:18
+              - generic [ref=e2008]:
+                - generic [ref=e2009]:
+                  - heading "This is the most overpopulated country on the planet 🤯 24 minutes" [level=3] [ref=e2010]:
+                    - link "This is the most overpopulated country on the planet 🤯 24 minutes" [ref=e2011]:
+                      - /url: /watch?v=DtkKK9SayR8
+                      - text: This is the most overpopulated country on the planet 🤯
+                  - generic [ref=e2013]:
+                    - generic [ref=e2015]:
+                      - text: PlanetaJuan
+                      - img [ref=e2018]:
+                        - generic [ref=e2020]:
+                          - img
+                    - generic [ref=e2021]:
+                      - generic [ref=e2022]: 250K views
+                      - generic [ref=e2023]: •
+                      - generic [ref=e2024]: 9 hours ago
+                    - generic [ref=e2025]:
+                      - generic [ref=e2029]: New
+                      - generic [ref=e2032]:
+                        - generic [ref=e2035]:
+                          - img
+                        - generic [ref=e2036]: Auto-dubbed
+                - button "More actions" [ref=e2039]:
+                  - generic [ref=e2043]:
+                    - img
+            - generic [ref=e2048] [cursor=pointer]:
+              - link [ref=e2049]:
+                - /url: /watch?v=Rnfpd8p8Ty0
+                - generic [ref=e2055]: 38:02
+              - generic [ref=e2057]:
+                - generic [ref=e2058]:
+                  - heading "Cypress Testing Interview Questions| Postman Interview Questions For Experienced 38 minutes" [level=3] [ref=e2059]:
+                    - link "Cypress Testing Interview Questions| Postman Interview Questions For Experienced 38 minutes" [ref=e2060]:
+                      - /url: /watch?v=Rnfpd8p8Ty0
+                      - text: Cypress Testing Interview Questions| Postman Interview Questions For Experienced
+                  - generic [ref=e2062]:
+                    - generic [ref=e2064]: RD Automation Learning
+                    - generic [ref=e2065]:
+                      - generic [ref=e2066]: 32K views
+                      - generic [ref=e2067]: •
+                      - generic [ref=e2068]: 3 years ago
+                - button "More actions" [ref=e2071]:
+                  - generic [ref=e2075]:
+                    - img
+            - generic [ref=e2080] [cursor=pointer]:
+              - link [ref=e2081]:
+                - /url: /watch?v=QkdkLdMBuL0
+                - generic [ref=e2087]: 18:33
+              - generic [ref=e2089]:
+                - generic [ref=e2090]:
+                  - heading "Kafka Tutorial for Beginners | Everything you need to get started 18 minutes" [level=3] [ref=e2091]:
+                    - link "Kafka Tutorial for Beginners | Everything you need to get started 18 minutes" [ref=e2092]:
+                      - /url: /watch?v=QkdkLdMBuL0
+                      - text: Kafka Tutorial for Beginners | Everything you need to get started
+                  - generic [ref=e2094]:
+                    - generic [ref=e2096]: TechWorld with Nana
+                    - generic [ref=e2097]:
+                      - generic [ref=e2098]: 893K views
+                      - generic [ref=e2099]: •
+                      - generic [ref=e2100]: 8 months ago
+                - button "More actions" [ref=e2103]:
+                  - generic [ref=e2107]:
+                    - img
+            - generic [ref=e2112] [cursor=pointer]:
+              - link [ref=e2113]:
+                - /url: /watch?v=R2zd1Gz2nV0
+                - generic [ref=e2119]: 2:09:27
+              - generic [ref=e2121]:
+                - generic [ref=e2122]:
+                  - heading "Cypress Course 2022 in 2 hours | Cypress Automation tutorial 2 hours, 9 minutes" [level=3] [ref=e2123]:
+                    - link "Cypress Course 2022 in 2 hours | Cypress Automation tutorial 2 hours, 9 minutes" [ref=e2124]:
+                      - /url: /watch?v=R2zd1Gz2nV0
+                      - text: Cypress Course 2022 in 2 hours | Cypress Automation tutorial
+                  - generic [ref=e2126]:
+                    - generic [ref=e2128]:
+                      - text: Bitfumes
+                      - img [ref=e2131]:
+                        - generic [ref=e2133]:
+                          - img
+                    - generic [ref=e2134]:
+                      - generic [ref=e2135]: 16K views
+                      - generic [ref=e2136]: •
+                      - generic [ref=e2137]: 3 years ago
+                - button "More actions" [ref=e2140]:
+                  - generic [ref=e2144]:
+                    - img
+            - generic [ref=e2149] [cursor=pointer]:
+              - link [ref=e2150]:
+                - /url: /watch?v=yhYirC9XqUk
+                - generic [ref=e2156]: 4:37:27
+              - generic [ref=e2158]:
+                - generic [ref=e2159]:
+                  - 'heading "Cypress Course: Complete Beginner Course | Cypress Full Course 4 hours, 37 minutes" [level=3] [ref=e2160]':
+                    - 'link "Cypress Course: Complete Beginner Course | Cypress Full Course 4 hours, 37 minutes" [ref=e2161]':
+                      - /url: /watch?v=yhYirC9XqUk
+                      - text: "Cypress Course: Complete Beginner Course | Cypress Full Course"
+                  - generic [ref=e2163]:
+                    - generic [ref=e2165]: SQA World
+                    - generic [ref=e2166]:
+                      - generic [ref=e2167]: 1.3K views
+                      - generic [ref=e2168]: •
+                      - generic [ref=e2169]: 5 months ago
+                - button "More actions" [ref=e2172]:
+                  - generic [ref=e2176]:
+                    - img
+    - text: · · · • · • • • • • •
+```

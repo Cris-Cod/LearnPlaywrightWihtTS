@@ -1,0 +1,6 @@
+text from 1st loop: PlaywrightTutorialFullCourse
+text from 1st loop: PostmanCollectionsByTestersTalk
+text from 1st loop: PlaywrightAPITestingTutorial
+text from 1st loop: RestAssuredAPITestingFramework
+text from 1st loop: PlaywrightTypeScriptTutorialFullCourse
+text from 1st loop: CypressTutorialFullCourse

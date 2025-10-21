@@ -17,4 +17,10 @@ export class HomePage {
         await this.page.goto(process.env.YOUTUBE_URL!);
     }
 
+    async searchWitjhKeyword(keyword:string){
+        await this.searchBox.click();
+        await this.searchBox.fill(keyword);
+        await this.searchBox.press('Enter');
+    }
+
 }

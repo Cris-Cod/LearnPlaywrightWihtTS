@@ -46,6 +46,9 @@ export default defineConfig({
     testIdAttribute: 'data-tab-item',
     headless: false,
     video: 'on',
+    //launchOptions:{
+    //  args: ['--start-maximized'],
+    //}
   },
 
   /* Configure projects for major browsers */
@@ -80,10 +83,10 @@ export default defineConfig({
     //   name: 'Microsoft Edge',
     //   use: { ...devices['Desktop Edge'], channel: 'msedge' },
     // },
-    // {
-    //   name: 'Google Chrome',
-    //   use: { ...devices['Desktop Chrome'], channel: 'chrome' },
-    // },
+    {
+      name: 'Google Chrome',
+      use: { ...devices['Desktop Chrome'], channel: 'chrome', viewport: { width: 1280, height: 720 } },
+    },
   ],
 
   /* Run your local dev server before starting the tests */

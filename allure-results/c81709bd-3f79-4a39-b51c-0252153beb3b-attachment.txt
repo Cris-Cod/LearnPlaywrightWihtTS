@@ -1,0 +1,20 @@
+POST API Response : {
+  "bookingid": 3678,
+  "booking": {
+    "firstname": "Ardella",
+    "lastname": "Keebler",
+    "totalprice": 9963,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-01-25",
+      "checkout": "2025-01-27"
+    },
+    "additionalneeds": "breakfast"
+  }
+}
+Booking Id : 3678
+GET API Response : [
+  {
+    "bookingid": 3678
+  }
+]

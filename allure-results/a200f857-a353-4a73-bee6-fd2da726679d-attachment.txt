@@ -1,0 +1,2 @@
+Test[object Promise]
+POST API Response is:  NaN

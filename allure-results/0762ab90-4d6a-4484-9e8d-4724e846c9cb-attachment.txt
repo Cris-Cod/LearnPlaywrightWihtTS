@@ -1,0 +1,39 @@
+POST API Response : {
+  "bookingid": 4660,
+  "booking": {
+    "firstname": "Tracy",
+    "lastname": "Towne",
+    "totalprice": 6019,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-01-25",
+      "checkout": "2025-01-27"
+    },
+    "additionalneeds": "breakfast"
+  }
+}
+Booking Id : 4660
+GET API Response : {
+  "firstname": "Tracy",
+  "lastname": "Towne",
+  "totalprice": 6019,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2025-01-25",
+    "checkout": "2025-01-27"
+  },
+  "additionalneeds": "breakfast"
+}
+Token : b5e76cb7ff4c580
+PATCH API Response : {
+  "firstname": "Testers Talk",
+  "lastname": "Towne",
+  "totalprice": 6019,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2025-01-25",
+    "checkout": "2025-01-27"
+  },
+  "additionalneeds": "breakfast"
+}
+DELETE API Response : Created

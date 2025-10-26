@@ -1,0 +1,26 @@
+POST API Response : {
+  "bookingid": 2579,
+  "booking": {
+    "firstname": "Solon",
+    "lastname": "Boyer",
+    "totalprice": 8113,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-01-25",
+      "checkout": "2025-01-27"
+    },
+    "additionalneeds": "breakfast"
+  }
+}
+Booking Id : 2579
+GET API Response : {
+  "firstname": "Solon",
+  "lastname": "Boyer",
+  "totalprice": 8113,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2025-01-25",
+    "checkout": "2025-01-27"
+  },
+  "additionalneeds": "breakfast"
+}

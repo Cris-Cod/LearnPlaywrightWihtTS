@@ -1,0 +1,14 @@
+POST API Response : {
+  "bookingid": 1508,
+  "booking": {
+    "firstname": "Adella",
+    "lastname": "Buckridge",
+    "totalprice": 3669,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-01-25",
+      "checkout": "2025-01-27"
+    },
+    "additionalneeds": "breakfast"
+  }
+}
